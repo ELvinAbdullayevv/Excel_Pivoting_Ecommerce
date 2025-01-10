@@ -32,7 +32,9 @@ Microsoft Excel (for data cleaning, analysis, and visualization)
 
 **"Presented below are the pivot tables used for summarizing and analyzing the dataset:"**
 
-![image](https://github.com/user-attachments/assets/3bd4ea5d-6691-41f4-902e-737fd7688c3a)
+
+![image](https://github.com/user-attachments/assets/e38d0cce-16ae-4b2a-a4e0-5e5149a5dc49)
+
 
 ![image](https://github.com/user-attachments/assets/5637028a-40a1-45a6-992e-ff1fe9c764e1)
 
